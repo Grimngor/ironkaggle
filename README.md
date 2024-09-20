@@ -33,6 +33,6 @@ DELIVERABLE:
 • a txt file with the R2 score inside
 
 Winners:
-● Winner 1 -> Group with the highest R2 score
+● Winner 1 -> Group with the highest R2 scores
 ● Winner 2 -> Group with the most correct prediction of their own R2 score
-BOTH CAN BE THE SAME GROUP
+BOTH CAN BE THE SAME GROUPs
